@@ -5,8 +5,6 @@
 # Change Log
 All notable changes, such as SDK releases, updates and fixes, are documented in this file.
 
-Current SDK version: __0.2.14__
-
 
 ## SDK Version: __0.2.14__
 ![Change] Change camera access progress message screen
