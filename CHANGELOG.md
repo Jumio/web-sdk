@@ -13,7 +13,7 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ![Improvement] Automatically prompt to upload the backside if only front of 2 sided document was submitted
 
-![Improvement] Add Jlive fallback policy
+![Improvement] Add Jumio Liveness fallback policy
 
 ![Fix] Broken upload error layout for mobile
 
