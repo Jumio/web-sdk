@@ -7,6 +7,15 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.3.6__
+
+- ![Improvement] ![Liveness] Update Jumio Liveness library with better memory management
+- ![Improvement] Add `publicErrorCode` param to error url
+- ![Improvement] ![WCAG] Compliance with WCAG 2.2 level AA
+- ![Fix] Update translation of Taiwan in Chinese Traditional, fix background of locale dropdown in dark mode, and other fixes
+
+---
+
 ## SDK Version: __0.3.5__
 
 - ![Improvement] ![Liveness] Jumio Liveness library update
