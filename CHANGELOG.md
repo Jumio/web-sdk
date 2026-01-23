@@ -7,6 +7,28 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.3.8__
+
+- ![Improvement] Support for custom localizations
+- ![Improvement] Anchor the call-to-action button/content to bottom of page
+- ![Improvement] UX improvement of loading screen
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.7__
+
+- ![Improvement] Dynamic removal of the DocType selection screen
+- ![Improvement] Support for localized default consent links
+- ![Improvement] Add possibility to remove the back button
+- ![Improvement] Customization of ID flip animation timing
+- ![Improvement] Add possibility to disable the rescue session
+- ![Improvement] UX optimization for mobile phones with extra tall displays
+- ![Improvement] ![Liveness] Update Jumio Liveness library
+- ![Fix] Various bug fixes
+
+---
+
 ## SDK Version: __0.3.6__
 
 - ![Improvement] ![Liveness] Update Jumio Liveness library with better memory management
