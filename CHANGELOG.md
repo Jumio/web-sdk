@@ -7,6 +7,15 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.3.9__
+
+- ![Improvement] Improve ID autocapture UX
+- ![Improvement] Add camera flashlight support
+- ![Improvement] Add possibility to remove the language selector
+- ![Fix] Various bug fixes
+
+---
+
 ## SDK Version: __0.3.8__
 
 - ![Improvement] Support for custom localizations
