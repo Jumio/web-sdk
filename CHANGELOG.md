@@ -7,6 +7,14 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.3.10__
+
+- ![Improvement] Update upload progress reporting
+- ![Improvement] Add rescue capture functionality
+- ![Fix] Various bug fixes
+
+---
+
 ## SDK Version: __0.3.9__
 
 - ![Improvement] Improve ID autocapture UX
