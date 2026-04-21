@@ -5,6 +5,58 @@
 # Change Log
 All notable changes, such as SDK releases, updates and fixes, are documented in this file.
 
+## SDK Version: __0.3.19__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.18__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.17__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.16__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.15__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.14__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.13__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.12__
+
+- ![Fix] Various bug fixes
+
+---
+
+## SDK Version: __0.3.11__
+
+- ![Fix] Various bug fixes
+
 ---
 
 ## SDK Version: __0.3.10__
