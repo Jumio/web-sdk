@@ -5,6 +5,16 @@
 # Change Log
 All notable changes, such as SDK releases, updates and fixes, are documented in this file.
 
+---
+
+## SDK Version: __0.4.0__
+
+- ![Improvement] Strengthen client-server communication integrity
+- ![Improvement] Hide client version when Jumio logo is hidden
+- ![Fix] Various bug fixes
+
+---
+
 ## SDK Version: __0.3.19__
 
 - ![Fix] Various bug fixes
