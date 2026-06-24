@@ -7,6 +7,16 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.5.0__
+
+- ![Improvement] Faster loading of the initial screen
+- ![Improvement] Add possibility to override icons
+- ![Improvement] Update the dropdown UI
+- ![Improvement] Add error information in `workflow:failed` event
+- ![Fix] Various bug fixes
+
+---
+
 ## SDK Version: __0.4.0__
 
 - ![Improvement] Strengthen client-server communication integrity
