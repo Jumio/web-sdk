@@ -7,6 +7,14 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.6.0__
+
+- ![Improvement] Add global support for selfie.Done workflow
+- ![Improvement] Display progress during liveness capture
+- ![Fix] Various bug fixes
+
+---
+
 ## SDK Version: __0.5.0__
 
 - ![Improvement] Faster loading of the initial screen
