@@ -7,6 +7,12 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.6.1__
+
+- ![Fix] Fix an edge-case where the camera stream could not be seen
+
+---
+
 ## SDK Version: __0.6.0__
 
 - ![Improvement] Add global support for selfie.Done workflow
