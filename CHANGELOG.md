@@ -7,6 +7,16 @@ All notable changes, such as SDK releases, updates and fixes, are documented in 
 
 ---
 
+## SDK Version: __0.6.3__
+
+- ![Improvement] Introduction of preview-based customization via the Jumio portal
+- ![Improvement] Predefinition of digital identities
+- ![Improvement] Add geolocation collection support
+- ![Improvement] Support file type restriction in document verification workflow
+- ![Fix] Various bug fixes
+
+---
+
 ## SDK Version: __0.6.2__
 
 - ![Improvement] Added support for skipping backside capture for specific ID subtypes (such as Philippine National ID)
